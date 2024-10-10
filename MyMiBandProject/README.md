@@ -1,0 +1,3 @@
+# MyMiBandProject
+
+このプロジェクトの説明
