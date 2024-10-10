@@ -1,0 +1,2 @@
+# MyMiBandProject
+mibandを使用した心拍数に関するデータをpcに転送するapplication
